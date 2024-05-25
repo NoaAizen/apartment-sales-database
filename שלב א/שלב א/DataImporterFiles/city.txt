@@ -1,0 +1,147 @@
+ID,City,Ranking
+001,New York,075
+002,Tokyo,081
+003,London,063
+004,Paris,058
+005,Berlin,072
+006,Rome,049
+007,Madrid,066
+008,Beijing,091
+009,Delhi,083
+010,Seoul,054
+011,Sydney,078
+012,Mumbai,087
+013,Shanghai,092
+014,Moscow,073
+015,Singapore,068
+016,Hong Kong,074
+017,Istanbul,056
+018,Bangkok,089
+019,Chicago,067
+020,Dubai,085
+021,Jakarta,053
+022,Lisbon,048
+023,Zurich,059
+024,Prague,046
+025,Vienna,065
+026,Boston,062
+027,Barcelona,077
+028,Miami,070
+029,Mexico City,093
+030,Santiago,084
+031,Athens,047
+032,Budapest,051
+033,Amsterdam,064
+034,Brussels,052
+035,Buenos Aires,050
+036,Melbourne,057
+037,Stockholm,061
+038,Helsinki,045
+039,Oslo,055
+040,Copenhagen,060
+041,Manila,082
+042,Karachi,090
+043,Riyadh,088
+044,Bucharest,079
+045,Warsaw,076
+046,Brisbane,071
+047,Basel,069
+048,Doha,080
+049,Montreal,040
+050,Edinburgh,039
+051,Glasgow,038
+052,Reykjavik,037
+053,Havana,036
+054,Baltimore,035
+055,Dublin,033
+056,Sofia,032
+057,Ottawa,031
+058,Hanoi,030
+059,Osaka,029
+060,Nairobi,028
+061,Manama,027
+062,Algiers,026
+063,Islamabad,025
+064,Kuwait City,024
+065,Belgrade,023
+066,Sarajevo,022
+067,Tunis,021
+068,Valletta,020
+069,Luxembourg,019
+070,Nicosia,018
+071,Tbilisi,017
+072,Riga,016
+073,Vilnius,015
+074,Skopje,014
+075,Tallinn,013
+076,Podgorica,012
+077,Monaco,011
+078,San Marino,010
+079,Vatican City,009
+080,Minsk,008
+081,Ljubljana,007
+082,Zagreb,006
+083,Kathmandu,005
+084,Kigali,004
+085,Lagos,003
+086,Casablanca,002
+087,Cairo,001
+088,Dakar,099
+089,Abuja,098
+090,Addis Ababa,097
+091,Luanda,096
+092,Antananarivo,095
+093,Khartoum,094
+094,Windhoek,093
+095,Harare,092
+096,Maputo,091
+097,Port Louis,090
+098,Lilongwe,089
+099,Libreville,088
+100,Accra,087
+101,Lome,086
+102,Ouagadougou,085
+103,Bamako,084
+104,Niamey,083
+105,Djibouti,082
+106,Asuncion,081
+107,Lima,080
+108,La Paz,079
+109,Quito,078
+110,Montevideo,077
+111,Caracas,076
+112,Kingston,075
+113,Nassau,074
+114,Santo Domingo,073
+115,Port-au-Prince,072
+116,Tegucigalpa,071
+117,San Salvador,070
+118,Managua,069
+119,Panama City,068
+120,Belize City,067
+121,Guatemala City,066
+122,San Jose,065
+123,Port-of-Spain,064
+124,Bridgetown,063
+125,Castries,062
+126,Basseterre,061
+127,St. John's,060
+128,Kingstown,059
+129,Roseau,058
+130,St. George's,057
+131,Bogota,056
+132,Paramaribo,055
+133,Georgetown,054
+134,Cayenne,053
+135,Sucre,052
+136,Colombo,051
+137,Dhaka,050
+138,Phnom Penh,049
+139,Yangon,048
+140,Vientiane,047
+141,Ho Chi Minh,046
+142,Taipei,045
+143,Ulaanbaatar,044
+144,Thimphu,043
+145,New Delhi,042
+146,Astana,041
