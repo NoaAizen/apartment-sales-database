@@ -63,8 +63,8 @@ WHERE
     BUYER_NAME,
     BUYER_PHONE,
     CITY_NAME,
-    PRESENT_STATUS, 
-FROM
+    PRESENT_STATUS
+    FROM
     Full_Details_View_AP
 WHERE
     PRESENT_STATUS <> 'Notebook'
@@ -147,3 +147,4 @@ JOIN
 ORDER BY
     s.SupplierID, e.EquipmentID;
 
+commit;
