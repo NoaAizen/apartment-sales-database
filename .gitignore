@@ -1,0 +1,32 @@
+# PL/SQL Developer editor backups and generated output
+*.~*
+*.out
+*.bak
+
+# PL/SQL Developer tool artifacts
+# Data Generator definitions can store database credentials
+*.gd
+*.pdd
+
+# Database exports and dumps
+backup*.sql
+*.dmp
+*.dump
+
+# Project reports and documents (may contain personal information)
+*.pdf
+*.doc
+*.docx
+
+# Temporary and log files
+*.tmp
+*.temp
+*.log
+~$*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
