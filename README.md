@@ -1,8 +1,8 @@
 # Apartment Sales Database
 
-A relational database system, built on Oracle Database with SQL and PL/SQL, for managing apartments, buyers, sellers, agents, property visits and sales.
+A relational database system for managing apartments, buyers, sellers, agents, property visits, and sales.
 
-The repository has the schema and its constraints, sample data and import definitions, analytical and parameterized queries, and PL/SQL programs for apartment matching and agent management. It also includes integration scripts and views that merge the schema with an external flower-shop ordering database.
+It is built on Oracle Database with SQL and PL/SQL. The repository has the schema and its constraints, sample data and import definitions, analytical and parameterized queries, and PL/SQL programs for apartment matching and agent management. It also includes integration scripts and views that merge the schema with an external flower-shop ordering database.
 
 ## Data Model
 
@@ -113,4 +113,4 @@ Notes:
 
 ## Credits
 
-Developed by Noa Aizen and Nechama B. as part of a university database course.
+Developed collaboratively by Noa Aizen and Nechama B.
